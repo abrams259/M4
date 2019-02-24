@@ -1,7 +1,7 @@
-# M4
-## Podnaslov 1  
-Prvi rad    
-@  Tihomir  
-...   
-Primjer koda    
-...
+# AlgebraCSharp2019
+## Podnaslov 1
+Ovo je neko moj projekt C#  
+@author Mrvic  
+'''
+Ovo je primjer koda
+'''
