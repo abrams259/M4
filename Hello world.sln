@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello world", "Hello world\Hello world.csproj", "{BE0E70A0-06E7-4416-88FB-55843DB9DBC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zbroj1", "Zbroj1\Zbroj1.csproj", "{D33F9BA1-C05F-42DA-9B4C-06A45A290BF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert", "Convert\Convert.csproj", "{507316D9-8836-48FD-9031-468593361666}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ispis broja", "Ispis broja\Ispis broja.csproj", "{A29FD22D-5FBB-43C7-9C29-E17A34E49B0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vreliste_lediste", "Vrelište_ledište\Vreliste_lediste.csproj", "{8444B8DF-8D9B-4E2D-98DC-D20B5DDA0850}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zbroj_razlika", "Zbroj_razlika\Zbroj_razlika.csproj", "{B97D8C39-8D1C-4FDD-BDDD-4BC1058218D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE0E70A0-06E7-4416-88FB-55843DB9DBC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE0E70A0-06E7-4416-88FB-55843DB9DBC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE0E70A0-06E7-4416-88FB-55843DB9DBC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE0E70A0-06E7-4416-88FB-55843DB9DBC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D33F9BA1-C05F-42DA-9B4C-06A45A290BF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D33F9BA1-C05F-42DA-9B4C-06A45A290BF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D33F9BA1-C05F-42DA-9B4C-06A45A290BF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D33F9BA1-C05F-42DA-9B4C-06A45A290BF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{507316D9-8836-48FD-9031-468593361666}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{507316D9-8836-48FD-9031-468593361666}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{507316D9-8836-48FD-9031-468593361666}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{507316D9-8836-48FD-9031-468593361666}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A29FD22D-5FBB-43C7-9C29-E17A34E49B0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A29FD22D-5FBB-43C7-9C29-E17A34E49B0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A29FD22D-5FBB-43C7-9C29-E17A34E49B0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A29FD22D-5FBB-43C7-9C29-E17A34E49B0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8444B8DF-8D9B-4E2D-98DC-D20B5DDA0850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8444B8DF-8D9B-4E2D-98DC-D20B5DDA0850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8444B8DF-8D9B-4E2D-98DC-D20B5DDA0850}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8444B8DF-8D9B-4E2D-98DC-D20B5DDA0850}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B97D8C39-8D1C-4FDD-BDDD-4BC1058218D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B97D8C39-8D1C-4FDD-BDDD-4BC1058218D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B97D8C39-8D1C-4FDD-BDDD-4BC1058218D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B97D8C39-8D1C-4FDD-BDDD-4BC1058218D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFCCCC76-4AA4-4C77-8BA5-273A28357F19}
+	EndGlobalSection
+EndGlobal
